@@ -16,4 +16,4 @@ print("La lista Fibonacci es : ")
 
 list = Fibonacci(input)
 for l in list:
-    print(l)
+    print(l,",",end="")
